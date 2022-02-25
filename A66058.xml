@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to the inhabitants of Leeds, and all others in cities, towns and villages, who have willfully been persecuting the people of the Lord whom he hath called by his eternal spirit to magnifie himself in, and to testifie for truth and righteousness, and against all ungodly works, and workers thereof / by Isabel Wails.</title>
+            <author>Wails, Isabel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66058</idno>
+            <idno type="STC">Wing W221</idno>
+            <idno type="STC">ESTC R1911</idno>
+            <idno type="EEBO-CITATION">12369267</idno>
+            <idno type="OCLC">ocm 12369267</idno>
+            <idno type="VID">60516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 903:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to the inhabitants of Leeds, and all others in cities, towns and villages, who have willfully been persecuting the people of the Lord whom he hath called by his eternal spirit to magnifie himself in, and to testifie for truth and righteousness, and against all ungodly works, and workers thereof / by Isabel Wails.</title>
+                  <author>Wails, Isabel.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60516:1"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:60516:1"/>
+            <!-- PDF PAGE 49 -->
+            <p>A WARNING To the Inhabitants of LEEDS, And all others in Cities, Towns and Villages, Who have willfully been Perſecuting THE <hi>PEOPLE</hi> of the <hi>LORD,</hi> VVhom he hath called by his Eternal Spirit to magnifie himſelf in, and to teſtifie for Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs, and againſt all ungodly Works, and Workers thereof.</p>
+            <p>By <hi>Iſabel Wails.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Year</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60516:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="3" facs="tcp:60516:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>A WARNING To the Inhabitants of LEEDS And all others that are or may be con<g ref="char:EOLhyphen"/>cerned, in all Cities, Towns and Villages, whereſoever this may come.</head>
+            <opener>
+               <salute>O You Inhabitants of <hi>Leeds!</hi>
+               </salute>
+            </opener>
+            <p>to whom I have been a near Neighbour, and a near Dwelle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, theſe ſe<g ref="char:EOLhyphen"/>veral years, This day I am moved in the everlaſt<g ref="char:EOLhyphen"/>ing Spirit of Truth, to warn you, both High and Low, Rich and Poor, to Return unto the Lord God, who by his Holy Spirit calls in the ſecret parts of your hearts for Truth and Righteouſneſs, and true Holineſs, and wills not the Death of any Soul that he in his pure Wiſ<g ref="char:EOLhyphen"/>dom hath Created. But <hi>dear People!</hi> this is my Teſtimony for the Lord, he would have all to come unto him, that they may receive Life and Peace from him, who is God forever, and he changeth not, nei<g ref="char:EOLhyphen"/>ther is he limited this day, nor his Spirit is not limi<g ref="char:EOLhyphen"/>ted, which he in the riches of his Love hath manifeſted and revealed unto us; ſo in the ſure Revelation of his
+<pb n="4" facs="tcp:60516:3"/>
+               <!-- PDF PAGE 51 -->eternal Love, am I conſtrained to tell you, who have made War againſt the appearance of the Lord in his People, The Lord is making haſte to recompence every one of you according to your doings; for he is riſen to be a ſwift Witneſs againſt the Ungodly: And I plainly tell you all, who theſe lines may come before, to be read, or heard, <hi>If you ſow to the Fleſh, of the Fleſh you ſhall reap Corruption, but if ye ſow to the Spirit, ye ſhall of the Spirit reap Life Everlaſting.</hi> Therefore in the fear of the Lord God, and Bowels of tender Pity, am I made to warn you all, to lay aſide or ceaſe from your Acts of Cruelty, which the power of Satan hath invented in your Hearts, which Power is limited. So I intreat you to return unto the Lord, and put on the Spirit of Meekneſs, and ſeek the Lord God, that through ſeeking him you may find Mercy and Compaſ<g ref="char:EOLhyphen"/>ſion, as all his People (who have ſought him) have done, from Age to Age, and Generation to Generation, the Lord God hath had pity unto the Cries of his own; and its for no other cauſe or occaſion, that we Suf<g ref="char:EOLhyphen"/>fer, but for bearing forth the Teſtimony of his Love that he hath revealed in us, who were in the Bondage of Corruption, and Iniquity, as you are, who are perſecuting the Upright, and have oppreſſed the Inno<g ref="char:EOLhyphen"/>cent without any juſt cauſe: Therefore I am bound to declare unto you, That God is highly diſpleaſed at your doings; for his Anger is kindled, and the Viols of his Wrath are ready to be poured forth upon you, who have wilfully tranſgreſſed againſt him: And except ye Repent, and let true Judgment come over the head of the Tranſgreſſor, you cannot eſcape, but you muſt drink of the Cup of his Indignation, which
+<pb n="5" facs="tcp:60516:3"/>
+               <!-- PDF PAGE 51 -->is held forth for them that will not take his counſel, nor hearken unto him when he calls.</p>
+            <p>Oh! how doth my Soul breathe that you would return unto the Lord, before that you have ſinned out your Day, leſt that the Lord's Bowels of Compaſſion be ſhut up againſt you; and if ſo, <hi>Mark</hi>] you may call and he will not hear, you may ſhout and cry, but he will not hearken, nor anſwer; therefore as God hath ma<g ref="char:EOLhyphen"/>nifeſted himſelf unto us through his Son Chriſt Jeſus, though we were in Darkneſs as well as others, but through waiting upon him in his own Spirit, we are come to know the Deeds of Wickedneſs to be mor<g ref="char:EOLhyphen"/>tified in us, and through his Spirit that gives Life, are we come to have our hearts ſoftned and mollified thereby. So in this living Spirit we cannot but de<g ref="char:EOLhyphen"/>clare unto others, and deſire that all may come to the true acknowledgment of the Lord, and not only to know him, but alſo to obey him; then it will be cer<g ref="char:EOLhyphen"/>tain (as here you abide) that Cruelty will be put to an end in every one of your hearts, who come to receive this Counſel, and Mercy and Pity, and true Compaſſion will be raiſed towards all men; for of a Truth I declare, and bear my Teſtimony for my God at this very moment of time, that there is yet a tender pity runs from the Bowels of the Lord unto ſome of you, and his Mind is, that none might periſh nor be deſtroyed, but that you might wait upon him, that through him you might receive Life and Peace forever.</p>
+            <p>So I intreat you that you may not reject the coun<g ref="char:EOLhyphen"/>ſel of the Lord, which doth ariſe in the meaneſt of his People, and ſlight not the day of your Viſitation, Jeſt
+<pb n="6" facs="tcp:60516:4"/>
+               <!-- PDF PAGE 52 -->it paſs over your heads; for this day God is the ſame that ever he was, to bear up their heads that fear him, and alſo to renew their Faith, who are freely given up to anſwer him in his Requirings; alſo he is ready to take Vengeance of the Tranſgreſſors, and of them that ſtand to fight againſt any of his Children, whom he hath choſen to bear forth his Teſtimony in his Truth upon Earth.</p>
+            <p>So, dear People, (I would have you to) remember <hi>Moſes,</hi> how often he was made by the Spirit and Pow<g ref="char:EOLhyphen"/>er of God to ſpake unto <hi>Pharoah,</hi> but <hi>Pharoah</hi> oppo<g ref="char:EOLhyphen"/>ſed the Power of God through the hardneſs of his Heart, and rejected the Counſel of the Lord, that the Lord had revealed unto <hi>Moſes,</hi> and he would not let the Children of <hi>Iſrael</hi> go, but he invented a way (through the work of Satan) how he might deſtroy the Innocent; but the Lord hearkened unto their Cries, and their Groans came before him, and he had regard unto his choſen flock, and by Faith were they delivered, when <hi>Pharoah</hi> and all his <hi>Hoſt</hi> were deſtroyed, and did periſh from off the Earth.</p>
+            <p>So in the tender Bowels of Love, hath the Lord God opened my Mouth amongſt you (my Towns-men, Neighbours and Acquaintance) to warn you once more to return unto the Lord, who is the living God, and no longer harden your hearts; for this day God hath paſſed by the Wiſe and Prudent of this World, who have not had an Eye unto him, and he hath revealed himſelf unto a People who are accounted as the Off<g ref="char:EOLhyphen"/>ſcouring of the Earth, and in the eyes of (Wiſe) men we are not counted worthy to live; but God that hath heard our Cries, in the deepeſt of our Afflictions hath
+<pb n="7" facs="tcp:60516:4"/>
+               <!-- PDF PAGE 52 -->had regard unto us, and ſtill doth remain with us, and we are certain he will do, as we ſtand faithful unto him; for he hath renewed our Faith, as he did <hi>Abraham</hi>'s of Old. So in this Faith and Confidence is my Soul made to teſtifie againſt all Gain-ſayers, and them that ſtrike againſt the appearance of the Lord of Hoſts, in any of his People whom he hath choſen; and he hath alſo drawn us to believe in him, bleſſed be his Name forever; for he hath preſerved us through many Troubles, Tribulations, and great Sufferings, both within and without, when men have heaped Sorrow upon Sorrow, through the wrath of their Hearts, if by any means they could have deſtroyed us; but yet the Lord by his outſtretched Arm hath preſerved us, that in the midſt of my outward Trou<g ref="char:EOLhyphen"/>bles and Tribulations I can Bleſs, Praiſe and Magni<g ref="char:EOLhyphen"/>fie the Name of the Lord, that he hath delivered my Soul out of the Bondage of Iniquity, and out of the Snares of Death, and counted me (with my Brethren and Siſters) worthy to ſuffer for the Teſtimony of his Name, its more precious to my Soul then the increaſe of <hi>Corn, Wine</hi> or <hi>Oyl,</hi> or any viſible thing that is upon the Earth.</p>
+            <p>So in the openings of Gods Spirit of Love, was I conſtrained to warn you to conſider what you have done, and how ye will anſwer the Lord, when he comes to take an account of you, for the deeds that you have done in the Body, that he did Frame and Make for himſelf, for a Temple to dwell in, and by your wicked Inventions you have defiled it, and in it have lodged the Power of Satan. So in the Spirit of Meekneſs do I intreat you, that you may come to
+<pb n="8" facs="tcp:60516:5"/>
+               <!-- PDF PAGE 53 -->wait to feel the Power of God (which is an unlimited Power) to over-power all the Powers of Satan, which is limited and ever was, and he can go no further then the Lord ſuffers him, ſo that all our Tryals and Tribulati<g ref="char:EOLhyphen"/>ons that we have gone through, or may go through, are but light unto us, in compariſon of Gods Love that he hath revealed unto us, and made us ſharers of, yea, many Thouſands of Sons and Daughters. So in this free Grace that God hath made my Soul a Wit<g ref="char:EOLhyphen"/>neſs of, I deſire to ſtand a Witneſs for him forever, over Sin, Death, and all the Powers of Satan, and my Travail is that you may come to experience the work of the Lord in you.</p>
+            <p>Dear People! its my Cry, that your underſtandings may be opened, that ye may hearken unto the Voice of the Lord, which Cries in the ſecret parts of the heart for Holineſs. Then will Sin be put to an end in you, and you will take no delight in it, nor you will have no Pleaſure to have Iniquity to lodge within your hearts; For I can truly declare unto you, that the Lord hath no pleaſure in them that are working Wickedneſs, and drinking up Iniquity as the Ox drink<g ref="char:EOLhyphen"/>eth up Water. Oh, my Soul! my Soul cries unto the Lord that ye might return unto him, before the <hi>Day of Calamity and Sorrow</hi> come upon you; For if you will not hearken nor regard, its certain it will overtake you, and then will you ſay (if ye repent not) that you had warning given, time after Time, and would not take it: Therefore whether you will hear, or forbear, I have anſwered the Lords Requirings, and in my obedience I have Peace, which I prefer above all outward Injoyments. And I am bold to declare unto
+<pb n="9" facs="tcp:60516:5"/>
+               <!-- PDF PAGE 53 -->you this day (the Lord knows I lye not) that I could neither eat, nor take my natural reſt, but was oppreſſed, and my Tears were not a few; for my Soul mourned with<g ref="char:EOLhyphen"/>in me, until I was given up in obedience to the Lord God, to ſignifie unto you, what he had revealed unto my Soul: Therefore whether you will hear or forbear, (as I have ſaid unto you) the Lord hath eaſed my Spirit in ſome meaſure, and in his Will I lie down, whatſoever he is pleaſed to ſuffer man to inflict upon me, I deſire to be found in his ſervice for evermore.</p>
+            <closer>
+               <dateline>From one who is a well-wiſher of all men, and deſires the proſ<g ref="char:EOLhyphen"/>perity of all Souls, who am a Priſoner at <hi>York-Caſtle,</hi>for the Teſtimony of Jeſus, <date>this 17. day of the 10. Moneth, in the Year, 1684.</date>
+               </dateline>
+               <signed>Iſabel Wails.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:60516:6"/>
+            <!-- PDF PAGE 54 -->
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>O Ye People of <hi>Leeds!</hi>
+               </salute>
+            </opener>
+            <p>who have perſecuted the Lords Servants, and impriſoned the Innocent without a cauſe; For your ſakes am I ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to mourn in ſecret, and my Spirit is troubled within me, when I conſider the <hi>Calamity</hi> that is coming upon you, and which will certainly overtake you, except you ſpee<g ref="char:EOLhyphen"/>dily Repent: <hi>A Day of Diſtreſs</hi> and great <hi>Lamen<g ref="char:EOLhyphen"/>tation! A Day of Darkneſs</hi> and <hi>Gloomineſs! A Day of Miſery</hi> and of the <hi>Shadow of Death,</hi> is coming upon you, in which although you call, the Lord will not hear, yea, though ye cry aloud he will not regard it, becauſe when he called unto you ye would not hear, and when he waited to be gracious, warning you again and again to Repent, yet ye regarded it not, but ſet at nought his Counſel, and made a ſcorn of them by whom he warned you, and deſpiſed all his Reproofs.</p>
+            <p>Oh! conſider of this, ye Inhabitants of <hi>Leeds,</hi> whilſt yet you have a day or time, you who have had a hand in perſecuting the Innocent, (who have done no harm to any of you) and that have had no regard ei<g ref="char:EOLhyphen"/>ther to Old or Young, Rich nor Poor, <hi>Fatherleſs</hi> nor <hi>Widdows,</hi> but have ſent (or haled) of all ſorts to Pri<g ref="char:EOLhyphen"/>ſon, without reſpect to Age or Sex, (even ſome great with Child) Oh! have ye not deſpiſed and afflicted the Aged and Gray-Hairs, whom the Lord hath honoured, and the Poor which he regarded? And as for the Sick, have ye not turned your backs on them, whoſe Groans have been heard in your Ears? O! do you not think that the Lord ſees and takes notice of theſe things, and that all your
+<pb n="11" facs="tcp:60516:6"/>
+               <!-- PDF PAGE 54 -->
+               <hi>Hard-heartedneſs, Cruelty</hi> and <hi>Oppreſſion,</hi> are writ<g ref="char:EOLhyphen"/>ten down in his Book? Yes certainly, the Lord of Hoſts both ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and takes notice of them, and in due time will aſſuredly viſit for the ſame, and be avenged on his Adver<g ref="char:EOLhyphen"/>ſaries, recompencing a Reward upon them according to their deeds; for it is he that hath called us, and given us to bear Witneſs of him, and his Name and Truth upon the Earth, and are made willing to wait on him, and to be ſubject to him, in obedience to his requirings; yea, though it be to the hazard of Liberty, Life and Eſtate; for he hath not ſpared to ſhed his precious Blood for us, that he might Redeem us from all Iniquity, that we might be a peculiar People to him: Therefore he is precious to us, yea, as a <hi>Pearl</hi> of great Price; and this day we cannot but remember him, honour him, and fear his Name, and we durſt not deny him nor his Truth before men, who hath plucked us as Brands out of the Fire, and hath raiſed us up who were dead in Treſ<g ref="char:EOLhyphen"/>paſſes and in Sins (as well as others) and hath cauſed us this day to Teſtifie of him, who is God forever and chang<g ref="char:EOLhyphen"/>eth not, who will have pity on them that fear him, and truſt in his Name, when all the Wicked and Ungodly ſhall periſh from his pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſence, and from off the Face of the Earth.</p>
+            <p>The Day haſtens, yea, the day haſtens, that Gods fierce Wrath and Indignation will be poured out upon the Stiff-necked and Re<g ref="char:EOLhyphen"/>bellious Generation, and upon all ſuch as will not hearken unto (but reject) his Counſel, which by his Spirit he hath and is giving unto the Sons and Daughters of Men: Therefore Repent, Re<g ref="char:EOLhyphen"/>pent, leſt Salvation be hid from your Eyes.</p>
+            <closer>
+               <signed>From a Sufferer for the Truth and Righteouſneſs ſake, known to many of you by the Name of <hi>Iſabel Wails.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
